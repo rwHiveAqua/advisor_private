@@ -21,3 +21,4 @@ the idea is that people can use AI adviser to reach the personal imporvemnt obje
 - Connect to an AI create a podcast of the subject he person whants to leanr
 - Obtain the all the information to help the person to have more informed structed live. With a dashboard apps and to softh. 
 
+my change
